@@ -1,0 +1,5 @@
+{
+    "name": "IBMQ-QSVM",
+    "description": "Quantum support vector machine",
+    "max_execution_time": 30000
+  }
